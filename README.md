@@ -5,11 +5,9 @@
 
 ## CSE Student | N00B Coder | Web Developer
 
-- 🔭 Young Visionary
-- 🌱 I’m currently learning everything
-- 👯 Ker
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:
+- 👯 I'm Currently Working as a Back-end Developer
+- 🥅 2020 Goals: Contribute More to Open Source Projects
+- ⚡ Hobbies: I Love Designing UI
 
 ### Connect with me:
 
