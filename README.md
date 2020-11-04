@@ -46,7 +46,7 @@
 
 ### Github Stats
 
-<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&count_private=true" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&count_private=true" />
 
 [website]: https://asifakhtar.me
 [twitter]: https://twitter.com/imasifakhtar
