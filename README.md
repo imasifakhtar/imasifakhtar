@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=asifakhtar.me&style=for-the-badge&url=https%3A%2F%2Fasifakhtar.me)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imasifakhtar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimasifakhtar&screen_name=AsifAkhtar)
 
-## CSE Student | N00B Coder | Web Developer
+## CSE Student | Programmer | Web Developer
 
-- 👯 I'm Currently Working as a Back-end Developer
-- 🥅 2020 Goals: Contribute More to Open Source Projects
-- ⚡ Hobbies: I Love Designing UI
+- 👯 N/A
+- 🥅 N/A
+- ⚡ N/A
 
 ### Connect with me:
 
