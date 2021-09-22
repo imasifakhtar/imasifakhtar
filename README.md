@@ -5,8 +5,8 @@
 
 ## CSE Student | Programmer | Web Developer
 
-- 👯 All of my projects are available at [https://asifakhtar.me/](https://asifakhtar.com/)
-- 🥅 Know about my experiences [https://resume.asifakhtar.me/](https://asifakhtar.com/Asif_Resume.pdf)
+- 👯 All of my projects are available at [https://asifakhtar.com/](https://asifakhtar.com/)
+- 🥅 Know about my experiences [https://asifakhtar.com/Asif_Resume.pdf](https://asifakhtar.com/Asif_Resume.pdf)
 
 ### Connect with me:
 
