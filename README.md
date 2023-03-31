@@ -1,6 +1,6 @@
 ### Hi there, I'm [Asif Akhtar][website] 👋
 
-[![Website](https://img.shields.io/website?label=asifakhtar.com&style=for-the-badge&url=https%3A%2F%2Fasifakhtar.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=asifakhtar.com&style=for-the-badge&url=https%3A%2F%2Fasifakhtar.com)](https://asifakhtar.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imasifakhtar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimasifakhtar&screen_name=AsifAkhtar)
 
 ## CSE Student | Programmer | Web Developer
