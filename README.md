@@ -1,12 +1,12 @@
 ### Hi there, I'm [Asif Akhtar][website] 👋
 
-[![Website](https://img.shields.io/website?label=asifakhtar.me&style=for-the-badge&url=https%3A%2F%2Fasifakhtar.com)](https://asifakhtar.me)
+[![Website](https://img.shields.io/website?label=asifakhtar.me&style=for-the-badge&url=https%3A%2F%2Fasifakhtar.me)](https://asifakhtar.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imasifakhtar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimasifakhtar&screen_name=AsifAkhtar)
 
 ## CSE Student | Programmer | Web Developer
 
-- 👯 All of my projects are available at [here](https://asifakhtar.com/)
-- 🥅 Know about my experiences [here](https://asifakhtar.com/Asif_Resume.pdf)
+- 👯 All of my projects are available at [here](https://asifakhtar.me/)
+- 🥅 Know about my experiences [here](https://asifakhtar.me/Asif_Resume.pdf)
 
 ### Connect with me:
 
