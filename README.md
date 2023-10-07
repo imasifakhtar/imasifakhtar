@@ -1,52 +1,43 @@
-### Hi there, I'm [Asif Akhtar][website] 👋
+### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=asifakhtar.me&style=for-the-badge&url=https%3A%2F%2Fasifakhtar.me)](https://asifakhtar.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imasifakhtar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimasifakhtar&screen_name=AsifAkhtar)
+## I'm Asif Akhtar.
 
-## CSE Student | Programmer | Web Developer
+### 💻 &nbsp;About Me 
 
-- 👯 All of my projects are available at [here](https://asifakhtar.me/)
-- 🥅 Know about my experiences [here](https://asifakhtar.me/Asif_Resume.pdf)
+- 🤔 &nbsp; Exploring new technologies and developing web solutions to our worlds tech problems.
+- 🎓 &nbsp; Studying COmputer Science Engineering at Lovely Professional University.
 
-### Connect with me:
 
-[<img align="left" alt="Asif Akhtar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Asif Akhtar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Asif Akhtar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Asif Akhtar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Asif Akhtar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### 🛠 &nbsp;Tech Stack
 
-<br />
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### Languages & Tools :
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imasifakhtar&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+##  🤝🏻 &nbsp;Connect with Me
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-
-### Github Stats
-
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&count_private=true" />
-
-[website]: https://asifakhtar.me
-[twitter]: https://twitter.com/imasifakhtar
-[instagram]: https://instagram.com/imasifakhtar_
-[facebook]: https://facebook.com/imasifakhtar
-[linkedin]: https://linkedin.com/in/imasifakhtar
+<p align="center">
+<a href="https://asifakhtar.me"><img src="https://img.shields.io/badge/-asifakhtar.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/imasifakhtar"><img src="https://img.shields.io/badge/-Asif%20Akhtar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:iamasifakhtar@gamil.com"><img src="https://img.shields.io/badge/-iamasifakhtar@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
