@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying COmputer Science Engineering at Lovely Professional University.
+- 🎓 &nbsp; Studying Computer Science Engineering at Lovely Professional University.
 
 
 ### 🛠 &nbsp;Tech Stack
