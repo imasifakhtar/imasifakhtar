@@ -31,8 +31,6 @@
 <a href="https://github.com/imasifakhtar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=imasifakhtar&theme=radical&card_width=460" />
-  [![GitHub Streak]()](https://git.io/streak-stats)
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imasifakhtar&theme=radical&layout=compact&exclude_lang=java+r" /> -->
 </a>
 </p>
 
