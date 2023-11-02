@@ -30,7 +30,7 @@
 <p>
 <a href="https://github.com/imasifakhtar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&theme=radical" />
-<!--   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=imasifakhtar&theme=radical&card_width=460" /> -->
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=imasifakhtar&theme=radical&card_width=460" />
 </a>
 </p>
 
