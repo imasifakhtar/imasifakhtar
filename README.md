@@ -1,42 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Asif Akhtar</h1>
+<h3 align="center">Founder & CEO of <a href="https://alterera.net" target="_blank">Alterera Networks</a></h3>
 
-## I'm Asif Akhtar.
+---
 
-### 💻 &nbsp;About Me 
+### 👨‍💼 About Me  
+- 🚀 Founder & CEO of **[Alterera Networks](https://alterera.net)** – building next-gen digital products & solutions.  
+- 💡 Passionate about **scaling businesses with technology, innovation, and design**.  
+- 🧑‍💻 Full-stack developer with expertise in the **MERN stack & modern web ecosystems**.  
+- 🌍 Focused on creating impactful solutions in **eCommerce, SaaS, and digital platforms**.  
+- 📍 Based in **India**.  
 
-- 🤔 &nbsp; Exploring new technologies and developing web solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Computer Science Engineering at Lovely Professional University.
+---
 
+### 🛠 Tech Stack  
 
-### 🛠 &nbsp;Tech Stack
+#### 🌐 Frontend & UI  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)  
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=BF4080)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+#### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+#### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)  
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
-## My Stats
-<p>
-<a href="https://github.com/imasifakhtar">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&theme=radical" />
-<!--   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=imasifakhtar&theme=radical&card_width=460" /> -->
-</a>
+---
+
+### 📊 My GitHub Stats  
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=imasifakhtar&theme=radical&card_width=450" />
 </p>
 
+---
 
-##  🤝🏻 &nbsp;Connect with Me
-
-<a href="https://asifakhtar.me"><img src="https://img.shields.io/badge/-asifakhtar.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=red"/></a>
-<a href="https://www.linkedin.com/in/imasifakhtar"><img src="https://img.shields.io/badge/-Asif%20Akhtar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:iamasifakhtar@gamil.com"><img src="https://img.shields.io/badge/-iamasifakhtar@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://alterera.net"><img src="https://img.shields.io/badge/-alterera.net-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/imasifakhtar"><img src="https://img.shields.io/badge/-Asif%20Akhtar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:iamasifakhtar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
