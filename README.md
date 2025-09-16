@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asif Akhtar</h1>
-<h3 align="center">Founder & CEO of <a href="https://alterera.net" target="_blank">Alterera Networks</a></h3>
+<h1>Hi 👋, I'm Asif Akhtar</h1>
+<h3>Founder & CEO of <a href="https://alterera.net" target="_blank">Alterera Networks</a></h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🚀 Founder & CEO of **[Alterera Networks](https://alterera.net)** – building next-gen digital products & solutions.  
 - 💡 Passionate about **scaling businesses with technology, innovation, and design**.  
 - 🧑‍💻 Full-stack developer with expertise in the **MERN stack & modern web ecosystems**.  
-- 🌍 Focused on creating impactful solutions in **eCommerce, SaaS, and digital platforms**.  
+- 🌍 Focused on creating impactful solutions in **SaaS, digital platforms and eCommerce**.  
 - 📍 Based in **India**.  
 
 ---
@@ -21,7 +21,7 @@
 ---
 
 ### 📊 My GitHub Stats  
-<p align="center">
+<p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imasifakhtar&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imasifakhtar&layout=compact&theme=radical" />
 </p>
@@ -29,8 +29,7 @@
 ---
 
 ### 🤝 Connect With Me  
-<p align="center">
-  <a href="https://alterera.net"><img src="https://img.shields.io/badge/-alterera.net-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<p>
   <a href="https://www.linkedin.com/in/imasifakhtar"><img src="https://img.shields.io/badge/-Asif%20Akhtar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:iamasifakhtar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
