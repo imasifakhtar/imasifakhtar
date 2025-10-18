@@ -8,7 +8,7 @@
 - 💡 Passionate about **scaling businesses with technology, innovation, and design**.  
 - 🧑‍💻 Full-stack developer with expertise in the **MERN stack & modern web ecosystems**.  
 - 🌍 Focused on creating impactful solutions in **SaaS, digital platforms and eCommerce**.  
-- 📍 Based in **India**.  
+- 📍 Based in **Guwahati, India**.  
 
 ---
 
@@ -31,5 +31,5 @@
 ### 🤝 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/imasifakhtar"><img src="https://img.shields.io/badge/-Asif%20Akhtar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:iamasifakhtar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:asif@alterera.net"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
